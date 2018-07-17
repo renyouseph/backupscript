@@ -16,11 +16,11 @@ import pysftp
 import time
 import glob
 
-HOST = '192.168.1.105'
-USER = 'sdteam'
-PASSWORD = '1deam1ne'
+HOST = '192.168.0.105'
+USER = 'user'
+PASSWORD = 'wrt%2132'
 PORT = 22
-REMOTEDIR = '/home/sdteam/testsftp'
+REMOTEDIR = '/home/user/testsftp'
 
 SOURCES = [ '/root/python/files/' ]
 
