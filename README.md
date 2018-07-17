@@ -11,7 +11,7 @@ Python script to take the backup of directories as a tar file and move to remote
 ### Configure
 
 ```
-Replace the value of SOURCES with the absolute path od directories which required to add to tar
+Replace the value of SOURCES with the absolute path of directories which required to add to tar
 We can use compression methods like gz,bz2 as per the requirement, 
   >> tarFilename,'w:gz'
   >> tarFilename,'w:bz2'
