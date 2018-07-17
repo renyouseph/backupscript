@@ -16,10 +16,10 @@ We can use compression methods like gz,bz2 as per the requirement,
   >> tarFilename,'w:gz'
   >> tarFilename,'w:bz2'
 Replace the values of the following,
-HOST = '192.168.1.105'  >> Remote host 
-USER = 'sdteam'
+HOST = '192.168.0.102'  >> Remote host 
+USER = 'user'
 PASSWORD = 'wewgewhgh!22121'
 PORT = 22
-REMOTEDIR = '/home/server/testsftp'
+REMOTEDIR = '/home/user/testsftp'
 
 ```
